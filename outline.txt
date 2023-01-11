@@ -1,0 +1,27 @@
+main.html
+
+<navbar> Blog	Contact	Resume	Library
+
+<h1> I'm Oscar, a strategy consultant
+
+My interests include....
+
+On my blog I talk about... 
+I'm down to chat. Feel free to reach out[#contact]
+
+<h1> Projects
+
+<h1> Recent posts
+
+<Library>
+
+<footer>
+################################################################
+library.html
+
+Links
+
+Books
+
+Albums
+
