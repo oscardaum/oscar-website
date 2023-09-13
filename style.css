@@ -19,7 +19,10 @@ nav {
 }
 
 
-
+#blog {
+	padding-bottom: 50px;
+	padding-top: 50px;
+}
 
 img { 
  width: 50%; height: auto; 
